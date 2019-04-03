@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hea",
+				"headers\t(views.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"sear",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"compli",
+				"CodeComplice: Dump Import Directories"
+			],
+			[
+				"packain",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"con",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: GET['…']"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/workspaces/godd/dapp/voting-blockchain-dapp/README.md",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_modules/start.php",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_modules/views/default/lafiasante_modules/forms/account/settings.php",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_modules/lib/modules_functions.php",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_modules/actions/register.php",
+		"/C/Apps/xampp/MercuryMail/MERCURY.INI",
+		"/C/Apps/xampp/php/php.ini",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/pageowner.php",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_core/classes/Combantu/LafiaSante/DoctorUser.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/docs/examples/plugins/start.php",
+		"/C/sites/elgg-2.3.4/localdev.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/FormsService.php",
+		"/C/Apps/xampp/mysql/data/mysql_error.log",
+		"/C/Apps/xampp/php/logs/php_error_log",
+		"/C/Apps/xampp/apache/logs/error.log",
+		"/C/sites/elgg-2.3.4/mod/lafiasante_modules/actions/lafiasante_modules/load_available_cities.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/elgglib.php",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/sites/elgg-2.3.4/mod/custom_index/views/default/custom_index/content.php",
+		"/C/sites/elgg-2.3.4/mod/login_as/start.php",
+		"/C/Apps/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Apps/xampp/apache/conf/httpd.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-default.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-userdir.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-mpm.conf",
+		"/C/Apps/xampp/apache/conf/extra/proxy-html.conf",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/CodeComplice/CodeComplice.sublime-settings",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/navigation.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/ElggEntity.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/views.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/pagehandler.php",
+		"/C/sites/elgg-2.3.4/mod/developers/views/default/admin/develop_tools/sandbox.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/sessions.php",
+		"/C/Apps/xampp/php/docs/examples/parseDir.php",
+		"/C/Apps/xampp/apache/conf/extra/httpd-xampp.20171008.old",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Installed Packages/PHP Companion.sublime-package",
+		"/C/Apps/xampp/mysql/bin/my.ini",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/docs/examples/hooks/advanced.php",
+		"/C/Apps/xampp/php/pear/examples/debugging.php",
+		"/C/Apps/xampp/php/pear/examples/example2.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Application.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Config.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Services/Config.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/PersistentLoginService.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Context.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/actions.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/js/lib/comments.js",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/sites.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/EventsService.php",
+		"/C/sites/elgg-2.3.4/vendor/fortawesome/font-awesome/README.md",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/input.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/autoloader.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Di/ServiceProvider.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/views/default/forms/login.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/Forms/StickyForms.php",
+		"/C/sites/elgg-2.3.4/vendor/misd/linkify/README.md",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/start.php",
+		"/C/sites/elgg-2.3.4/mod/htmlawed/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php",
+		"/C/Apps/nodejs/README.md",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Charles/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/ElggMenuItem.php",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/classes/Elgg/WidgetDefinition.php",
+		"/C/sites/elgg-2.3.4/vendor/league/flysystem/docs/installation.md",
+		"/C/sites/elgg-2.3.4/vendor/composer/autoload_real.php",
+		"/C/sites/elgg-2.3.4/vendor/composer/installed.json",
+		"/C/sites/elgg-2.3.4/vendor/symfony/polyfill-php55/README.md",
+		"/C/sites/elgg-2.3.4/vendor/elgg/elgg/engine/lib/users.php",
+		"/C/sites/elgg-2.3.4/install.php",
+		"/C/Apps/xampp/phpMyAdmin/config.inc.php",
+		"/C/Apps/xampp/apache/logs/dev.lafiasante.local-access.log",
+		"/C/Apps/xampp/apache/logs/dev.lafiasante.local-error.log",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Charles/Desktop/hosts",
+		"/C/Apps/xampp/apache/conf/extra/httpd-info.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-proxy.conf",
+		"/C/Apps/xampp/apache/conf/extra/httpd-autoindex.conf"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 511.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update_doctor_settings",
+			"doctor_settings_save",
+			"extension=",
+			"extension",
+			"zend_e",
+			"xdeb",
+			"ext",
+			"zmq",
+			"2224",
+			"49",
+			"autocomplete",
+			"jquery.ui.autocomplete.html",
+			"jquery.ui.autocomplete.html:",
+			"xde",
+			"zend",
+			"allow ",
+			"htdo",
+			"local",
+			"xampp",
+			"Root",
+			"groups_fields_setup",
+			"modu",
+			"x",
+			":\n",
+			"Symfo",
+			"symfo",
+			"<?"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 152.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"advanced",
+				"vendor\\elgg\\elgg\\docs\\examples\\hooks\\advanced.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 579.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 381.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
